@@ -1,4 +1,4 @@
-// O principio 2 diz que a classe deve estar ABERTA a enxtersões e FECHADA para modificações.
+// O principio 2 diz que a classe deve estar ABERTA a extensões e FECHADA para modificações.
 
 class Pagamento {
   void pagarBoleto() => print('Pagar boleto');
